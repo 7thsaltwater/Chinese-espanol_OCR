@@ -1,0 +1,6 @@
+pandas
+keras
+xmltodict
+opencv-python
+matplotlib
+pillow
