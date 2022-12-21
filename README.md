@@ -1,0 +1,2 @@
+# Chinese-espanol_OCR
+基于CTPN+DenseNet的中英文OCR的two-stage方案，以及基于finetune的OCR跨语种小样本学习方案，在西班牙语数据集上进行实现
